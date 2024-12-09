@@ -1,4 +1,10 @@
-# Broken-face
-•	My first repository on GitHub
-•	New to AI agents
-•	I love the new digital frontier
+# Welcome to my GitHub profile
+
+## About me
+I'm Broken-face! 
+
+### Likes
+* Crypto
+* AFL (Aussie rule football
+* Swimming in the ocean
+
